@@ -1,6 +1,6 @@
 # FallForest
 
-Recursion allows each branch to call it's individual branches to move alongside it. A small change has a ripple effecfg across the entire branch. This models how factors like wind can affect the entire forest ecosystem.
+Recursion allows each branch to call it's individual branches to move alongside it. A small change has a ripple effect across the entire branch. This models how factors like wind can affect the entire forest ecosystem.
 
 In nature you can see recursive patterns in almost everything, life ripples and effects everything. I think some of the most famous applications of the idea is in something like the butterfly theory where one tiny change can effect all of life as we know it.
 
